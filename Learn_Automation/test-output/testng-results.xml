@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42758" started-at="2019-12-28T15:01:54 IST" finished-at="2019-12-28T15:02:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42758" started-at="2019-12-28T15:01:54 IST" finished-at="2019-12-28T15:02:37 IST">
+      <class name="codebase.PerpperFryTestNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:codebase.PerpperFryTestNG@887af79]" name="beforeTest" is-config="true" duration-ms="5199" started-at="2019-12-28T15:01:54 IST" finished-at="2019-12-28T15:02:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:codebase.PerpperFryTestNG@887af79]" name="f" duration-ms="31952" started-at="2019-12-28T15:02:00 IST" finished-at="2019-12-28T15:02:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:codebase.PerpperFryTestNG@887af79]" name="afterTest" is-config="true" duration-ms="5543" started-at="2019-12-28T15:02:32 IST" finished-at="2019-12-28T15:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- codebase.PerpperFryTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
