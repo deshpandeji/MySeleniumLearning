@@ -50,7 +50,6 @@ public class GoogleMaps {
 		String phone = helpers.getText("//div[contains (@class, 'section-info-speak-numeral')]", LocType.XPATH);
 		Assert.assertTrue(phone.contains("022 2279 5500"));
 		
-		
 	}
 	
 
